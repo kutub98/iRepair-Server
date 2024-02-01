@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Chipset Replacement",
+    "description": "Replace any Chipset",
+    "devices": ["MacBook", "iPad Pro", "MacBook Pro"],
+    "price": 549.0
+  },
+  {
+    "name": "Battery Replacement",
+    "description": "Replace Old Battery",
+    "devices": ["MacBook", "iPad Pro", "MacBook Pro"],
+    "price": 549.0
+  },
+  {
+    "name": "Screen Replacement",
+    "description": "Replace broken screens",
+    "devices": ["iPhone", "iPad", "Samsung Galaxy"],
+    "price": 299.0
+  },
+  {
+    "name": "Keyboard Replacement",
+    "description": "Replace faulty keyboards",
+    "devices": ["MacBook", "MacBook Pro"],
+    "price": 199.0
+  },
+  {
+    "name": "Camera Repair",
+    "description": "Fix camera issues",
+    "devices": ["iPhone", "Samsung Galaxy"],
+    "price": 149.0
+  },
+  {
+    "name": "Speaker Replacement",
+    "description": "Replace damaged speakers",
+    "devices": ["iPhone", "Samsung Galaxy"],
+    "price": 129.0
+  },
+  {
+    "name": "Charging Port Repair",
+    "description": "Fix charging port problems",
+    "devices": ["iPhone", "Samsung Galaxy"],
+    "price": 99.0
+  },
+  {
+    "name": "Software Update",
+    "description": "Update operating system and software",
+    "devices": ["iPhone", "iPad", "MacBook", "MacBook Pro", "Samsung Galaxy"],
+    "price": 79.0
+  },
+  {
+    "name": "Data Recovery",
+    "description": "Recover lost data",
+    "devices": ["iPhone", "iPad", "MacBook", "MacBook Pro", "Samsung Galaxy"],
+    "price": 199.0
+  }
+]
+
